@@ -6,3 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 the staging area is an isolated environment where you can decide what files will be included in the next commit. It is not the working directory b/c the staging area may only include a porting of the cwd. The repository includes your commit history. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+only add files to the staging area if they resemble a logical change
+
+

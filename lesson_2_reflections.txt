@@ -13,3 +13,7 @@ only add files to the staging area if they resemble a logical change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to add a new feature. A branch would help b/c you could merge when the feature is complete and working
+
+How do the diagrams help you visualize the branch structure?
+
+they add a visual element to the structure.

@@ -21,3 +21,8 @@ they add a visual element to the structure.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 their commit histories are combined
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git doing the merging is less work. However, it is not always going to to it the way you want and you will
+have to go in and resolve any merge conflicts.

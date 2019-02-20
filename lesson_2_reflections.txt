@@ -17,3 +17,7 @@ When you want to add a new feature. A branch would help b/c you could merge when
 How do the diagrams help you visualize the branch structure?
 
 they add a visual element to the structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+their commit histories are combined
